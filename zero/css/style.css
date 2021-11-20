@@ -1,0 +1,10 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+#submit:hover {
+    background-color:black;  
+    font-weight: 200;
+    border-color:red;
+    color:white;
+}
